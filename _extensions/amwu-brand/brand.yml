@@ -1,22 +1,29 @@
 color: 
   palette: 
-    blue: "#094fa3"
-    darkblue: "#001d26"
-    yellow: "#febe10"
-    orange: "#f15c30"
-    grey: "#e4e4e4"
-    darkgrey: "#231f20"
+    lagoon: "#00415b"
+    midnight: "#111a41"
+    vivid-orange: "#ff5800"
+    dark-slate: "#001d26"
+    deep-grey: "#4a4d56"
+    mercury: "#cbd1d4"
+    silver: "#ebeced"
     white: "#ffffff"
+    steel-blue: "#006da7"
+    sky: "#00acd0"
+    grey: "bcbec0"
+    blue: lagoon
   primary: blue
 logo: 
   small: img/amwu.png
 typography:
   fonts:
-    - family: Noto Sans
-      source: google
-    - family: Sansation
-      source: google
-  base: Noto Sans
+    - family: Stag
+      source: file
+      files:
+        - path: fonts/stag/Stag-Light.otf
+        - path: fonts/stag/Stag-Thin.otf
+  base:
+    family: Arial
   headings: 
-    family: Sansation
-    color: primary
+    family: Stag
+    color: blue
