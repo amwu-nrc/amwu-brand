@@ -10,8 +10,8 @@ color:
     white: "#ffffff"
     steel-blue: "#006da7"
     sky: "#00acd0"
-    grey: "bcbec0"
-    blue: lagoon
+    grey: "#bcbec0"
+    blue: midnight
   primary: blue
 logo: 
   small: img/amwu.png
@@ -22,6 +22,8 @@ typography:
       files:
         - path: fonts/stag/Stag-Light.otf
         - path: fonts/stag/Stag-Thin.otf
+        - path: fonts/stag/Stag-Medium.otf
+        - path: fonts/stag/Stag-Semibold.otf
   base:
     family: Arial
   headings: 
