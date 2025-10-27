@@ -28,7 +28,7 @@ typography:
       files:
         - path: fonts/stag/Stag-Semibold.otf
   base:
-    family: Arial
+    family: Open Sans
   headings: 
     family: Stag-Semibold
-    color: blue
+    color: primary
