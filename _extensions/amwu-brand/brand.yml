@@ -13,23 +13,22 @@ color:
     grey: "#bcbec0"
     blue: midnight
     red: vivid-orange
-  primary: red
-  background: lagoon
+  primary: vivid-orange
+  background: midnight
   foreground: silver
   
 logo: 
   small: img/amwu.png
 typography:
   fonts:
+    - family: "Open Sans"
+      source: google
     - family: Stag
       source: file
       files:
-        - path: fonts/stag/Stag-Light.otf
-        - path: fonts/stag/Stag-Thin.otf
-        - path: fonts/stag/Stag-Medium.otf
         - path: fonts/stag/Stag-Semibold.otf
   base:
     family: Arial
   headings: 
-    family: Stag
+    family: Stag-Semibold
     color: blue
