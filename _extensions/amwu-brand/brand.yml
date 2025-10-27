@@ -12,7 +12,11 @@ color:
     sky: "#00acd0"
     grey: "#bcbec0"
     blue: midnight
-  primary: blue
+    red: vivid-orange
+  primary: red
+  background: lagoon
+  foreground: silver
+  
 logo: 
   small: img/amwu.png
 typography:
