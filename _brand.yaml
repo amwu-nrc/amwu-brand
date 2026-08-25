@@ -41,7 +41,7 @@ typography:
     - family: Stag
       source: file
       files:
-        - path: fonts/stag/Stag-Semibold.otf
+        - path: fonts/Stag-Semibold.otf
   base:
     family: Open Sans
   headings: 
