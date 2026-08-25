@@ -22,7 +22,18 @@ color:
     dark: silver
   
 logo: 
-  small: img/amwu.png
+  images: 
+    icon-white: img/amwu-dark.png
+    icon: img/amwu-light.png
+    full-white: img/amwu-dark-name.png
+    full: img/amwu-light-name.png
+  small: 
+    light: icon
+    dark: icon-white
+  large: 
+    light: full
+    dark: full-white
+
 typography:
   fonts:
     - family: "Open Sans"
